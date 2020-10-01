@@ -14,6 +14,7 @@ My HealthTime-Bellybutton website will host four pages:
 
 ### 3. Three to four screenshots of relevant inspiring visuals that framed your creative fodder
 <br>![dashboard_pt1.png](Images/dashboard_pt1.png)
+<br>![dashboard_pt2.png](Images/dashboard_pt1.png)
 <br>![interactive_d3_scatter_plot.png](Images/interactive_d3_scatter_plot.png)
 
 
