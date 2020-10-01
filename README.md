@@ -16,7 +16,7 @@ My HealthTime-Bellybutton website will host four pages:
 <br>![dashboard_pt1.png](Images/dashboard_pt1.png)
 <br>![dashboard_part2.png](Images/dashboard_pt2.png)
 <br>![interactive_d3_scatter_plot.png](Images/interactive_d3_scatter_plot.png)
-<br>![healthcare_map_2.png](Images/healthcare_map_2.png)
+<br>![healthcare_map_2.PNG](Images/healthcare_map_2.PNG)
 
 
 
